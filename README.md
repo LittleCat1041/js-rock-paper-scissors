@@ -4,10 +4,10 @@ An interactive Rock-Paper-Scissors game built with **Vanilla JavaScript**, featu
 
 ## Key Features
 
- - ** Smart Computer Logic:** Computer makes unpredictable moves using randomized array indexing.
- - ** Instant Feedback:** Visual cues (Green/Red colors) indicate Win/Lose status immediately.
- - ** Score Tracking:** Real-time score updates for both player and computer.
- - ** Responsive Design:** Styled with modern CSS3 using Flexbox for perfect alignment.
+ - **Smart Computer Logic:** Computer makes unpredictable moves using randomized array indexing.
+ - **Instant Feedback:** Visual cues (Green/Red colors) indicate Win/Lose status immediately.
+ - **Score Tracking:** Real-time score updates for both player and computer.
+ - **Responsive Design:** Styled with modern CSS3 using Flexbox for perfect alignment.
 
 ## Code Highlights (Code Logic)
 
