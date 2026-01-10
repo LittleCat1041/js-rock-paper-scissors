@@ -9,7 +9,7 @@ An interactive Rock-Paper-Scissors game built with **Vanilla JavaScript**, featu
  - **Score Tracking:** Real-time score updates for both player and computer.
  - **Responsive Design:** Styled with modern CSS3 using Flexbox for perfect alignment.
 
-## Code Highlights (Code Logic)
+## Technical Highlights (Code Logic)
 
  - **Game Logic Optimization:** Utilized **Ternary Operators** to handle complex win/lose conditions concisely:
     ```javascript
