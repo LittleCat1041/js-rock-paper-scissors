@@ -25,9 +25,9 @@ An interactive Rock-Paper-Scissors game built with **Vanilla JavaScript**, featu
 ## How to Play
 
 #### 1.  **Clone the repository**
-    ```bash
-    git clone https://github.com/LittleCat1041/js-rock-paper-scissors.git
-    ```
+```bash
+git clone https://github.com/LittleCat1041/js-rock-paper-scissors.git
+```
 #### 2.  **Run the game**
 Option 1: VS Code Live Server (Recommended)
  1. Open the folder in **VS Code**.
