@@ -40,6 +40,6 @@ Option 2: Direct Open (Quick & Easy)
  1. Navigate to the project folder.
  2. Simply **double-click** the `index.html` file to open it in your default web browser.
 
-## Screenshots
+## Screenshot
 
 <img width="987" height="702" alt="image" src="https://github.com/user-attachments/assets/93f54760-9f7e-4d7d-80a8-6aa173c2054d" />
